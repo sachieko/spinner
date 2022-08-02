@@ -1,1 +1,1 @@
-# spinner
+# This program just implements a low-fidelity load animation for a cursor in console.
